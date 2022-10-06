@@ -1,9 +1,10 @@
-# BSidesIF 2022
-
-Materials and information will be posted here for the class at least 7 days before the workshop.
+# BSidesIF 2022 - Workshop Materials
 
 Ansible Files with MSI Files (~600MB)
+* The below file contains the mimikatz exe and supporting files in the downloads folder.
 
-URL: https://drive.google.com/file/d/1uwlP_X5SRSdW9o6sYPthAL8exgVen_Vl/view?usp=sharing
+URL: https://drive.google.com/file/d/1idA1Vkeo9oDdPYX52l2LjiTeQl6qP48w/view?usp=sharing
+
+Password to the encrypted file that is downloaded: BSides2022
 
 
